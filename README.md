@@ -1,1 +1,3 @@
-# mix_data
+# mix_data_hadoop
+
+for hadoop project
